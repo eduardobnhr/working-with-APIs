@@ -1,0 +1,21 @@
+{
+    "name": "luis eduardo",
+    "cidade": "manaus",
+    "idade": 22,
+    "livros_favoritos": [
+        "harry potter",
+        "codigo limpo",
+        "essencialismo"
+    ],
+    "hobbies": {
+        "semana": "academia",
+        "fim_de_semana":{
+            "sabado": "dormir",
+            "domingo": "caminhar",
+            "outros": [
+                "caminhada",
+                "hbomax"
+            ]
+        }
+    }
+}
